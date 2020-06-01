@@ -1,5 +1,7 @@
+bin/
 .idea/
 lib/
 lib/*
+lib64
 share/
 share/*
